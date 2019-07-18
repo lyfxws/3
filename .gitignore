@@ -20,4 +20,6 @@ mumax3.*linux*cuda*
 tmp/
 *.out
 .idea/
-.vscode/
+.vscoded
+*.sql
+*.pyc
